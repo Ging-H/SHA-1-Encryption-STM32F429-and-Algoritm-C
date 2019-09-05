@@ -1,10 +1,35 @@
 # The-DES-Algorithm-Illustrated-for-C-code
 
-by writer J. Orlin Grabbe
+
 
 - **Secure Hash Algorithms**, also known as SHA, are a family of cryptographic functions designed to keep data secured. It works by transforming the data using a hash function: an algorithm that consists of bitwise operations, modular additions, and compression functions. The hash function then produces a fixed-size string that looks nothing like the original. These algorithms are designed to be one-way functions, meaning that once they’re transformed into their respective hash values, it’s virtually impossible to transform them back into the original data. A few algorithms of interest are SHA-1, SHA-2, and SHA-3, each of which was successively designed with increasingly stronger encryption in response to hacker attacks. SHA-0, for instance, is now obsolete due to the widely exposed vulnerabilities.
 
-- A common application of SHA is to encrypting passwords, as the server side only needs to keep track of a specific user’s hash value, rather than the actual password. This is helpful in case an attacker hacks the database, as they will only find the hashed functions and not the actual passwords, so if they were to input the hashed value as a password, the hash function will convert it into another string and subsequently deny access. Additionally, SHAs exhibit the avalanche effect, where the modification of very few letters being encrypted causes a big change in output; or conversely, drastically different strings produce similar hash values. This effect causes hash values to not give any information regarding the input string, such as its original length. In addition, SHAs are also used to detect the tampering of data by attackers, where if a text file is slightly changed and barely noticeable, the modified file’s hash value will be different than the original file’s hash value, and the tampering will be rather noticeable.
+- A lot of times when you work on some project, you want to display data on computer. This can be done with USART peripheral on MCU. With USART you can connect more than just computer, you can connect with GSM modules, GPRS, bluetooth and so much more. Our discovery board supports up to 8 USART channels. In this tutorial we will use USART1 to show principle how to use USART in our project. But first, we have to initialize our pins and peripheral.
+- This example runs on STM32F407xx/417xx, STM32F429xx and STM32F439xx devices on STM32 Standard Peripheral Libraries.
+
+| U(S)ARTx  | TX  | RX | APB |                      
+| :------------ |:---------------:| -----:| -----:|
+| USART1      | PA9 | PA10 | 2 |
+| USART2      | PA2 | PA3 | 1 |
+| USART3      | PA10 | PB11 | 1 |
+| USART4      | PA0 | PA1 | 1 |
+| USART5      | PC12 | PD2 | 1 |
+| USART6      | PC6 | PC7 | 1 |
+| USART7      | PE8 | PE7 | 1 |
+| USART7      | PE1 | PE0 | 1 |
+#### Hyperterminal configuration:
+    - Word Length = 8 Bits
+    - One Stop Bit
+    - No parity
+    - BaudRate = 115200 baud
+    - flow control: None
+### USART1 uses pins
+- PA9 -TX for transmitting data
+- PA10 -RX for receiving data;
+![](http://2.bp.blogspot.com/-oaqvBEOZy_g/VTta340i9iI/AAAAAAAAAY0/IX7GS22VwS8/s1600/stm32f4%2Bto%2Bdb9.jpg)
+### LED3 & LED4 uses pins
+- PG13 green led
+- PG14 yellow led
   But first a bit of history of how DES came about is appropriate, as well as a look toward the future.
 
 ## **Algoritm**

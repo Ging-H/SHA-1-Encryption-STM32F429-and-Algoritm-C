@@ -1,0 +1,193 @@
+parsargeÇ
+- 72 tane Bit eklendi(hex)toBit:
+- 376 tane sifir eklendi.Toplam
+- 448 tane toplam Bit
+- 64 Bit yer kaldi.
+- 40 Bit yer kaldi.
+- 4 tane Bit eklendi:0
+- 36 tane Bit eklendi:00000040
+- 512 tane toplam Bit
+- 1 tane 512 Bit oBek var
+- 0\32-Bit eklendi:p,a,r,s
+- 1\32-Bit eklendi:a,r,g,e
+- 2\32-Bit eklendi:Ç, , ,
+- 3\32-Bit eklendi: , , ,
+- 4\32-Bit eklendi: , , ,
+- 5\32-Bit eklendi: , , ,
+- 6\32-Bit eklendi: , , ,
+- 7\32-Bit eklendi: , , ,
+- 8\32-Bit eklendi: , , ,
+- 9\32-Bit eklendi: , , ,
+- 10\32-Bit eklendi: , , ,
+- 11\32-Bit eklendi: , , ,
+- 12\32-Bit eklendi: , , ,
+- 13\32-Bit eklendi: , , ,
+- 14\32-Bit eklendi: , , ,
+- 15\32-Bit eklendi: , , ,@
+-f:98badcfe-k:5a827999
+-TEMP:10160b26
+-f:fbfbfefe-k:5a827999
+-TEMP:cae49934
+-f:7bf168c0-k:5a827999
+-TEMP:4bc1e5f0
+-f:9115c0c0-k:5a827999
+-TEMP:dfc86344
+-f:86852649-k:5a827999
+-TEMP:33e5513d
+-f:32f1654d-k:5a827999
+-TEMP:8e238955
+-f:33f03851-k:5a827999
+-TEMP:859d02e8
+-f:3df110c5-k:5a827999
+-TEMP:5f0460ea
+-f:49e85647-k:5a827999
+-TEMP:bce905fc
+-f:218cc2bf-k:5a827999
+-TEMP:6629503e
+-f:95c7403a-k:5a827999
+-TEMP:18fca3f4
+-f:b7e8483e-k:5a827999
+-TEMP:53668114
+-f:3f8a400f-k:5a827999
+-TEMP:9e9df46c
+-f:8aae541f-k:5a827999
+-TEMP:e8299cca
+-f:14bba8d5-k:5a827999
+-TEMP:dfc0fda
+-f:34f13c0f-k:5a827999
+-TEMP:5534da26
+-f:2a0b7713-k:5a827999
+-TEMP:20c5baa2
+-f:ab3e2736-k:5a827999
+-TEMP:90440f8
+-f:837f33d4-k:5a827999
+-TEMP:b8943421
+-f:9c4976a9-k:5a827999
+-TEMP:4e57423e
+-f:32e44ab7-k:6ed9eba1
+-TEMP:87bd523f
+-f:22335f08-k:6ed9eba1
+-TEMP:10e90243
+-f:7a0d8fb8-k:6ed9eba1
+-TEMP:8b546798
+-f:62938643-k:6ed9eba1
+-TEMP:b5b2ada8
+-f:ae817387-k:6ed9eba1
+-TEMP:28ccb098
+-f:535df4de-k:6ed9eba1
+-TEMP:419c02bd
+-f:27750214-k:6ed9eba1
+-TEMP:a52ffc41
+-f:66c385f1-k:6ed9eba1
+-TEMP:9e7217b4
+-f:ff7bd0c8-k:6ed9eba1
+-TEMP:7633ace4
+-f:a75ee80b-k:6ed9eba1
+-TEMP:152e8a8c
+-f:38e4d619-k:6ed9eba1
+-TEMP:6589facb
+-f:2f3ee458-k:6ed9eba1
+-TEMP:43579f34
+-f:7d4eb351-k:6ed9eba1
+-TEMP:9cd08e69
+-f:9f7e4325-k:6ed9eba1
+-TEMP:54519dd0
+-f:55671716-k:6ed9eba1
+-TEMP:84799b62
+-f:23b05987-k:6ed9eba1
+-TEMP:ba44cfb9
+-f:f659df8c-k:6ed9eba1
+-TEMP:c8119806
+-f:e4ece15-k:6ed9eba1
+-TEMP:115dbd1f
+-f:79ecd30-k:6ed9eba1
+-TEMP:2bb5069d
+-f:cdc8e8f0-k:6ed9eba1
+-TEMP:6b8843e4
+-f:a2156605-k:8f1bbcdc
+-TEMP:d5be9433
+-f:4acd43e7-k:8f1bbcdc
+-TEMP:37a881d2
+-f:5aee10b3-k:8f1bbcdc
+-TEMP:1c9fe520
+-f:37ea81d8-k:8f1bbcdc
+-TEMP:51278f56
+-f:9defa524-k:8f1bbcdc
+-TEMP:cf530181
+-f:527a954-k:8f1bbcdc
+-TEMP:624b8c38
+-f:8743e1c1-k:8f1bbcdc
+-TEMP:fb3fe0f5
+-f:7249c070-k:8f1bbcdc
+-TEMP:540243e5
+-f:7b96e064-k:8f1bbcdc
+-TEMP:280f4f8f
+-f:5c82e32d-k:8f1bbcdc
+-TEMP:ff81a109
+-f:7c0fd8bd-k:8f1bbcdc
+-TEMP:5af6c761
+-f:df0191e9-k:8f1bbcdc
+-TEMP:b7ef27cf
+-f:5ae2c363-k:8f1bbcdc
+-TEMP:3f78907b
+-f:77ed21ca-k:8f1bbcdc
+-TEMP:e9cdf121
+-f:7ff991fb-k:8f1bbcdc
+-TEMP:6b13b50d
+-f:eddfe133-k:8f1bbcdc
+-TEMP:407508ce
+-f:6b53340c-k:8f1bbcdc
+-TEMP:307d7508
+-f:5a756c4a-k:8f1bbcdc
+-TEMP:9266c10a
+-f:105d6503-k:8f1bbcdc
+-TEMP:12feaf6f
+-f:901f4102-k:8f1bbcdc
+-TEMP:fa82b6fb
+-f:ba78426f-k:ca62c1d6
+-TEMP:ada603ce
+-f:9aa4ad62-k:ca62c1d6
+-TEMP:3793c37c
+-f:97b905ab-k:ca62c1d6
+-TEMP:8a985d8
+-f:625aee31-k:ca62c1d6
+-TEMP:854c6c6b
+-f:ae24f5f4-k:ca62c1d6
+-TEMP:eedd36be
+-f:8a82fdc2-k:ca62c1d6
+-TEMP:44760514
+-f:da44cd2-k:ca62c1d6
+-TEMP:a31ac6a0
+-f:1e9253a1-k:ca62c1d6
+-TEMP:a490d65c
+-f:9b00a4a-k:ca62c1d6
+-TEMP:49458dd1
+-f:9d4be6b1-k:ca62c1d6
+-TEMP:846873cd
+-f:48a709ee-k:ca62c1d6
+-TEMP:35d09ec6
+-f:ff1d252e-k:ca62c1d6
+-TEMP:25090855
+-f:69be141-k:ca62c1d6
+-TEMP:61c381c8
+-f:c9673317-k:ca62c1d6
+-TEMP:288e089f
+-f:a5f5e46c-k:ca62c1d6
+-TEMP:4892d7c1
+-f:79bcaaf8-k:ca62c1d6
+-TEMP:26bdf899
+-f:9ac1b594-k:ca62c1d6
+-TEMP:1ffdab75
+-f:bebacf4e-k:ca62c1d6
+-TEMP:5bfb711
+-f:47660a3-k:ca62c1d6
+-TEMP:5f06642a
+-f:befa3ea-k:ca62c1d6
+-TEMP:f8758326
+-H0:5fbaa627
+-H1:4ed40fb3
+-H2:da2acac2
+-H3:5831bf53
+-H4:d826016
+
+SHA-1 SIFRE: 5fbaa6274ed40fb3da2acac25831bf53d826016
